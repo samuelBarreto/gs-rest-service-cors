@@ -1,5 +1,4 @@
-package hello;
-
+package com.example.simplerestapis.models;
 public class Greeting {
 
     private final long id;
